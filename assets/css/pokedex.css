@@ -6,6 +6,7 @@
     list-style: none;
 }
 
+
 .normal {
     background-color: #a6a877;
 }
@@ -97,6 +98,10 @@
     text-transform: capitalize;
     color: #fff;
     margin-bottom: .25rem;
+}
+
+.pokemon .detail .especialName{
+    display: none;
 }
 
 .pokemon .detail {
